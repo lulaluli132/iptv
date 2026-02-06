@@ -1,0 +1,70 @@
+#EXTM3U
+
+############## NEWS ##############
+#EXTINF:-1 group-title="News" tvg-name="BTV" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-name="Ekattor TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Ekattor_TV_logo.png/revision/latest?cb=20210920205546", Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-name="DBC News" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8a826f10-626d-435d-aa6d-1d94ee2eba01.png", DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-name="Ekhon TV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/41f41d61-4fa8-4b5f-9fe8-42632d7b599b.png", Ekhon TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-name="Somoy TV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/1a695f5d-e1b7-43f7-95bd-a3d17787891e.png", Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="News", NEWS 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-name="Independent" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b1684d4d-63b5-496b-b4d5-bc88129ac4e6.png", Independent
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-name="Jamuna TV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/cc8f548e-089c-47f6-8b6f-ff8699fb2a3d.png", Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+
+#EXTINF:-1 group-title="News" tvg-name="ATN News" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/d067d664-002b-4b58-aae3-3e2b6c643dcf.png", ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-name="Channel 24" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b6aa0497-735a-471c-9812-c42256e9b8de.png", Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-name="Star News" tvg-logo="", Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+
+
+
+
+############## BANGLA ENTERTAINMENT ##############
+#EXTINF:-1 group-title="Bangla" tvg-name="ATN Bangla" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/c168acf2-3968-4141-a3a8-b0842af73399.png", ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-name="Bangla Vision" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/e7924c04-4daa-4056-9339-239a6311f597.png", Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+
+#EXTINF:-1 group-title="Bangla" tvg-name="Channel i" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/f23ac7b0-7b7f-42e9-8c94-87d09d72f2f3.png", Channel i
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-name="Ekushey TV (ETV)" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/1a33c7ab-d12a-4b70-bd10-697aa2886451.png", Ekushey TV (ETV)
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+
+#EXTINF:-1 group-title="Bangla" tvg-name="NTV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/fecd2e66-70d2-4dbb-9883-8c3c3ded8f62.png", NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-name="Nexus tv" tvg-logo="", Nexus tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-name="Channel 9" tvg-logo="", Channel 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-name="Akash Go" tvg-logo="", Akash Go
+https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-name="SA TV" tvg-logo="", SA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+
