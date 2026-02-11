@@ -8,7 +8,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-name="DBC News" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8a826f10-626d-435d-aa6d-1d94ee2eba01.png", DBC News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-name="Ekhon TV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/41f41d61-4fa8-4b5f-9fe8-42632d7b599b.png", Ekhon TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
@@ -68,3 +68,5 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-name="SA TV" tvg-logo="", SA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 
+#EXTINF:-1 group-title="Bangla" tvg-name="ARY" tvg-logo="", ARY
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
