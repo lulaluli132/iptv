@@ -4,11 +4,14 @@
 #EXTINF:-1 group-title="News" tvg-name="BTV" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
+#EXTINF:-1 group-title="News" tvg-name="Songshodh TV" tvg-logo="https://en.wikipedia.org/wiki/Sangsad_Bangladesh_Television#/media/File:Sangsad_Television_Emblem.svg",Songshodh TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+
 #EXTINF:-1 group-title="News" tvg-name="Ekattor TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Ekattor_TV_logo.png/revision/latest?cb=20210920205546", Ekattor TV
 http://10.20.30.40:8088/201/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="News" tvg-name="DBC News" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8a826f10-626d-435d-aa6d-1d94ee2eba01.png", DBC News
-http://10.20.30.40:8088/204/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-name="Ekhon TV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/41f41d61-4fa8-4b5f-9fe8-42632d7b599b.png", Ekhon TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
@@ -17,7 +20,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 http://10.20.30.40:8088/205/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="News", NEWS 24 HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-name="Independent" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b1684d4d-63b5-496b-b4d5-bc88129ac4e6.png", Independent
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
@@ -25,11 +28,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 group-title="News" tvg-name="Jamuna TV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/cc8f548e-089c-47f6-8b6f-ff8699fb2a3d.png", Jamuna TV
 http://10.20.30.40:8088/209/tracks-v1a1/mono.m3u8?
 
-#EXTINF:-1 group-title="News" tvg-name="Desh TV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/ac92db20-1e80-40da-aa95-ccaa3072d95d.png", Desh TV
-https://tvsen6.aynaott.com/deshtv/index.m3u8
+#EXTINF:-1 group-title="News" tvg-name="Star News" tvg-logo="https://en.wikipedia.org/wiki/Star_News_%28Bangladesh%29#/media/File:Star_News_Bangladesh_Logo.svg", Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 
-#EXTINF:-1 group-title="News" tvg-name="Asian TV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/87a41c83-bdb4-4693-8a22-59924d90d080.png", Asian TV
-https://tvsen6.aynaott.com/asiantv/index.m3u8
+
 
 #EXTINF:-1 group-title="News" tvg-name="ATN News" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/d067d664-002b-4b58-aae3-3e2b6c643dcf.png", ATN News
 http://10.20.30.40:8088/203/index.m3u8
@@ -38,7 +40,51 @@ http://10.20.30.40:8088/203/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-name="SA TV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/bf0b6e80-ff46-4929-8f51-3b4c762a4909.png", SA TV
-https://tvsen6.aynaott.com/satv/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1ffb3fa3-7270-45e1-8cf7-4542db428670_180x180_Aljazeera.jpg" group-title="News", Aljazeera News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
+############## BANGLA ENTERTAINMENT ##############
+#EXTINF:-1 group-title="Bangla" tvg-name="ATN Bangla" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/c168acf2-3968-4141-a3a8-b0842af73399.png", ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-name="Dipto TV" tvg-logo="https://en.wikipedia.org/wiki/Deepto_TV#/media/File:Logo_of_Deepto_TV.svg", Dipto TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-name="Bangla Vision" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/e7924c04-4daa-4056-9339-239a6311f597.png", Bangla Vision
+http://10.20.30.40:8088/212/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-name="Boishakhi TV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/0eb2b55a-a44d-4d44-abd1-c4de611ff941.png", Boishakhi TV
+http://10.20.30.40:8088/211/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-name="Channel i" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/f23ac7b0-7b7f-42e9-8c94-87d09d72f2f3.png", Channel i
+http://10.20.30.40:8088/207/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/346b6f47-c3d7-456e-bd98-d563d383c18a.png" group-title="News", Channel 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-name="Ekushey TV (ETV)" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/1a33c7ab-d12a-4b70-bd10-697aa2886451.png", Ekushey TV (ETV)
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-name="GTV HD" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/226d28bf-a5aa-4889-9de1-4d5654021fea.png", GTV HD
+http://10.20.30.40:8088/106/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-name="Massranga HD" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/581fb949-ddaf-4f57-8cad-ca92985407aa.png", Massranga HD
+http://10.20.30.40:8088/206/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-name="NTV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/fecd2e66-70d2-4dbb-9883-8c3c3ded8f62.png", NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png", RTV
+http://10.20.30.40:8088/210/index.m3u8
+
+############## DOCUMENTARY ##############
+#EXTINF:-1 group-title="Documentary" tvg-name="Discovery HD" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/da6f475f-2454-46a3-9b7c-ffbcb7e2c4ca.png", Discovery HD
+http://10.20.30.40:8088/801/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-name="National Geographic HD" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/4dd960d0-da32-4c23-b9aa-2d6b7e567ae1.png", National Geographic HD
+http://10.20.30.40:8088/802/index.m3u8
 
 ############## SPORTS ##############
 #EXTINF:-1 group-title="Sports" tvg-name="Live Stream" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrLATL1YxVd4EVKm1tJlhkfievFMv6YsbT6O1ZGd26chbIrAMwzfpplsWx&s=10", Live Stream
@@ -71,38 +117,5 @@ http://10.20.30.40:8088/123/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-name="Star Sports Select 2" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/4fd51271-e301-49bb-9604-e09cd9dad6c2.png", Star Sports Select 2
 http://10.20.30.40:8088/124/index.m3u8
 
-############## BANGLA ENTERTAINMENT ##############
-#EXTINF:-1 group-title="Bangla" tvg-name="ATN Bangla" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/c168acf2-3968-4141-a3a8-b0842af73399.png", ATN Bangla
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-name="Bangla Vision" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/e7924c04-4daa-4056-9339-239a6311f597.png", Bangla Vision
-http://10.20.30.40:8088/212/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-name="Boishakhi TV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/0eb2b55a-a44d-4d44-abd1-c4de611ff941.png", Boishakhi TV
-http://10.20.30.40:8088/211/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-name="Channel i" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/f23ac7b0-7b7f-42e9-8c94-87d09d72f2f3.png", Channel i
-http://10.20.30.40:8088/207/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-name="Ekushey TV (ETV)" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/1a33c7ab-d12a-4b70-bd10-697aa2886451.png", Ekushey TV (ETV)
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-name="GTV HD" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/226d28bf-a5aa-4889-9de1-4d5654021fea.png", GTV HD
-http://10.20.30.40:8088/106/index.m3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-name="Massranga HD" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/581fb949-ddaf-4f57-8cad-ca92985407aa.png", Massranga HD
-http://10.20.30.40:8088/206/index.m3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-name="NTV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/fecd2e66-70d2-4dbb-9883-8c3c3ded8f62.png", NTV
-http://10.20.30.40:8088/208/index.m3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png", RTV
-http://10.20.30.40:8088/210/index.m3u8
-
-############## DOCUMENTARY ##############
-#EXTINF:-1 group-title="Documentary" tvg-name="Discovery HD" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/da6f475f-2454-46a3-9b7c-ffbcb7e2c4ca.png", Discovery HD
-http://10.20.30.40:8088/801/index.m3u8
-
-#EXTINF:-1 group-title="Documentary" tvg-name="National Geographic HD" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/4dd960d0-da32-4c23-b9aa-2d6b7e567ae1.png", National Geographic HD
-http://10.20.30.40:8088/802/index.m3u8
 
