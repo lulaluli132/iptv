@@ -76,7 +76,7 @@ http://10.20.30.40:8088/206/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-name="NTV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/fecd2e66-70d2-4dbb-9883-8c3c3ded8f62.png", NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png", RTV
+#EXTINF:-1 group-title="Bangla" tvg-name="RTV" tvg-logo="https://s3.aynaott.com/storage/fd634ca672c8294f109225ca42d20991", RTV
 http://10.20.30.40:8088/210/index.m3u8
 
 ############## DOCUMENTARY ##############
