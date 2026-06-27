@@ -15,6 +15,9 @@ http://10.20.30.40:8088/134/tracks-v1a1/mono.m3u8?token=ee7867ddb3a158e21f921fca
 #EXTINF:-1 group-title="Sports" tvg-name="Somoy TV", Somoy TV
 http://10.20.30.40:8088/205/tracks-v1a1/mono.m3u8?token=d37c943178d9da4b5585433f07e7c4f8a8eac052-7a9a30550e7328ad4d02eefa931695d3-1782573600-1782570000
 
+#EXTINF:-1 group-title="Sports" tvg-name="Live Stream", Live Stream
+http://10.20.30.40:8088/101/tracks-v1a1/mono.m3u8?token=d63f257934063b34c22658e9793adea30c5c70d8-532b06c2e18b4ef07b1339b843eecd50-1763267193-1763263593
+
 #EXTINF:-1 group-title="Sports" tvg-name="GTV", GTV
 http://10.20.30.40:8088/106/tracks-v1a1/mono.m3u8?token=55022b010127d5461f5839e6a858d0ef3afbcc5e-7d6f7655ef5d4a0512440a48e2b51061-1763267340-1763263740
 
